@@ -3,6 +3,7 @@
 /**
  * main -prints _putchar
  * return: always 0
+ *Return: Description of the returned value
  */
 int main(void)
 {
